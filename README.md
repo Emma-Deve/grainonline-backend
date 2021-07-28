@@ -78,44 +78,4 @@ spring.datasource.password=你的数据库密码
 7、启动前台Web UI
 
 
-# 效果图
-
-<table>
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314181540634.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314181406128.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314181436204.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314181500673.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191228208.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314192146196.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191245350.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314192417849.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314181540634.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191305200.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191325241.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191400367.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191416449.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191434263.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191533613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191653808.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr>  
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191708416.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200314191611311.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhaWR1XzMzMjY3MDc5,size_16,color_FFFFFF,t_70"/></td>
-    </tr> 
-</table>
 
